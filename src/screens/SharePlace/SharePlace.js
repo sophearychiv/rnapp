@@ -1,12 +1,9 @@
 import React, { Component } from "react";
 import {
   View,
-  Text,
-  TextInput,
   Button,
   StyleSheet,
   ScrollView,
-  Image
 } from "react-native";
 import { connect } from "react-redux";
 
